@@ -1,6 +1,6 @@
-# gestao_usuarios
+# gestao_usuarios_flask
 
-Projeto de gestão de usuários usando Python e Flask 
+Projeto de gestão de usuários usando Python e Flask
 
 ### install
 ```
