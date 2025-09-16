@@ -51,7 +51,7 @@ Siga os passos abaixo para rodar o projeto em sua máquina local.
 
 1.  Clone o repositório:
     ```sh
-    git clone <url-do-seu-repositorio>
+    git clone https://github.com/lucascarvalho1808/gestao_usuarios_flask.git
     ```
 2.  Navegue até o diretório do projeto:
     ```sh
@@ -125,7 +125,7 @@ Follow the steps below to run the project on your local machine.
 
 1.  Clone the repository:
     ```sh
-    git clone <your-repository-url>
+    git clone https://github.com/lucascarvalho1808/gestao_usuarios_flask.git
     ```
 2.  Navigate to the project directory:
     ```sh
